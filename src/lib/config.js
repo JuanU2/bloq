@@ -5,10 +5,10 @@
  * PLEASE BE SURE TO UPDATE THEM ALL! Thank you!
  **/ 
 
-export const siteTitle = 'Bloq.sk'
+export const siteTitle = 'unBloq.sk'
 export const siteDescription = 'Underground blog o témach budúcnosti'
-export const siteURL = 'bloq.sk'
-export const siteLink = 'bloq.sk'
+export const siteURL = 'unbloq.sk'
+export const siteLink = 'unbloq.sk'
 export const siteAuthor = 'Juan Marcos'
 
 // Controls how many posts are shown per page on the main blog index pages
