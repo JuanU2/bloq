@@ -18,7 +18,12 @@
 	</a>
 	
 	<a href="/" class="site-title">
-		{siteTitle}
+		<div class="inside-title">
+			<img src="/images/unbloq.png" class="logo" alt="Unvbloq logo">
+			<div>
+				{siteTitle}
+			</div>
+		</div>
 	</a>
 	
 	<HamburgerMenuButton />
