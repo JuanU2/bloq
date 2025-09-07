@@ -13,23 +13,23 @@
 
 
 <svelte:head>
-	<title>Blog category - page {page}</title>
+	<title>Blog kategória - stránka {page}</title>
 	<meta data-key="description" name={siteDescription}>
 </svelte:head>
 
 
 <!-- TODO: this is duplicated across multiple `+page.svelte` files -->
 {#if posts.length}
-	<h1>Posts {lowerBound}–{upperBound} of {totalPosts}</h1>
+	<h1>Posty {lowerBound}–{upperBound} z {totalPosts}</h1>
 	<Pagination currentPage={page} {totalPosts} />
 
 	<PostsList {posts} />
 
 	<Pagination currentPage={page} {totalPosts} />
 {:else}
-	<h1>Oops!</h1>
+	<h1>Ups!</h1>
 
-	<p>Sorry, no posts to show here.</p>
+	<p>Sorry, tu nenájdete žiaden post.</p>
 
-	<a href="/blog">Back to blog</a>
+	<a href="/blog">Späť na blog</a>
 {/if}
