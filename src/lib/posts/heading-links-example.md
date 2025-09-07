@@ -1,35 +1,15 @@
 ---
-title: "Automatic heading links in mdsvex"
-date: "2023-10-26"
-updated: "2023-10-26"
+title: "Čo je to počítač?"
+date: "2025-09-07"
+updated: "2025-09-07"
 categories:
-  - "sveltekit"
-  - "markdown"
-coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
+  - "počítač"
+  - "computer"
+  - "po lopate"
+coverImage: "/images/computer.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Každý deň ho používame, hoci o tom veľakrát ani nevieme. Ako však v skutočnosti funguje?
 ---
 
-Here are some headings:
-
-## Here's an h2
-
-Lorem ipsum dolor sit amet
-
-### This is an h3
-
-Lorem ipsum dolor sit amet
-
-#### As you've probably guessed, this is an h4
-
-Lorem ipsum dolor sit amet
-
-##### This, of course, is an h5
-
-Lorem ipsum dolor sit amet
-
-###### We're deep in h6 territory now
-
-Lorem ipsum dolor sit amet
-
+Bla bla bla zatial tu nič nie je :-).

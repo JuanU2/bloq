@@ -47,7 +47,7 @@
 
 	{#if categories}
 		<aside class="post-footer">
-			<h2>Posted in:</h2>
+			<h2>Kategória:</h2>
 			<ul class="post-footer__categories">
 				{#each categories as category}
 					<li>

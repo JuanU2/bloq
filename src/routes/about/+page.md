@@ -1,21 +1,11 @@
 <svelte:head>
-	<title>About</title>
+	<title>O mne</title>
 </svelte:head>
 
-# About
+# O mne
 
-This is an example of how you can have _markdown_ in page content!
+### Volám sa Juan
+Áno, na prvý pohľad veľmi exotické meno, no v skutočnosti som obyčajný chlapec narodený na Slovensku v Bratislave. Môj otec sa narodil na Kube a rozhodol sa, že podpíše svoju kubánsku hrdosť práve na mojom mene, vďaka čomu si ma ľudia vedia dnes ľahko zapamätať :-) .
 
-- How
-- **Cool**
-- Is _that_!?
-
-If you like, you can also import markdown into any Svelte page.
-
-Anyway, you can find this file here:
-
-```
-src/routes/about/+page.md
-```
-
-Here's the [home link](/) if you wanna go back.
+### Čomu sa venujem ?
+Som študentom **Fakulty Informatiky Masarykovej Univerzity**, zaujímam sa o vývoj aplikácii, a preto som sa rozhodol že si aj založím tento Blog.
