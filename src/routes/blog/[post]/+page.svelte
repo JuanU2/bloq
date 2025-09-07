@@ -36,10 +36,10 @@
 	<h1>{title}</h1>
 
 	<div class="meta">
-		<b>Published:</b>
+		<b>Publikované:</b>
 		{date}
 		<br />
-		<b>Updated:</b>
+		<b>Upravené:</b>
 		{updated}
 	</div>
 
